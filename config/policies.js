@@ -49,8 +49,8 @@ module.exports.policies = {
     // feed : ['isNiceToAnimals', 'hasRabbitFood']
     // }
 
-    '*/oauth': true,
-    '*': 'oauthBearer'
+    //'*/oauth': true,
+    //'*': 'oauthBearer'
 
 
 };
